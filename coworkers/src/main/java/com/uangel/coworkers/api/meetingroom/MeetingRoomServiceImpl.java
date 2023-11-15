@@ -1,11 +1,11 @@
-package com.pausehyeon.coworkers.api.meetingroom;
+package com.uangel.coworkers.api.meetingroom;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.pausehyeon.coworkers.exception.BusinessException;
+import com.uangel.coworkers.exception.BusinessException;
 
 @Service
 public class MeetingRoomServiceImpl implements MeetingRoomService {

@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.exception;
+package com.uangel.coworkers.exception;
 
 import lombok.Getter;
 

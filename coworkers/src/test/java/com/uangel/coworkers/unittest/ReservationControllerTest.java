@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.unittest;
+package com.uangel.coworkers.unittest;
 
 import static org.springframework.restdocs.mockmvc.MockMvcRestDocumentation.document;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -16,10 +16,10 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
-import com.pausehyeon.coworkers.api.reservation.PostReservationValidator;
-import com.pausehyeon.coworkers.api.reservation.PutReservationValidator;
-import com.pausehyeon.coworkers.api.reservation.ReservationController;
-import com.pausehyeon.coworkers.api.reservation.ReservationService;
+import com.uangel.coworkers.api.reservation.PostReservationValidator;
+import com.uangel.coworkers.api.reservation.PutReservationValidator;
+import com.uangel.coworkers.api.reservation.ReservationController;
+import com.uangel.coworkers.api.reservation.ReservationService;
 
 @RunWith(SpringRunner.class)
 @WebMvcTest(ReservationController.class)

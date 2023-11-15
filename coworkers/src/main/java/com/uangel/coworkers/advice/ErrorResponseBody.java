@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.advice;
+package com.uangel.coworkers.advice;
 
 import lombok.Builder;
 import lombok.Getter;

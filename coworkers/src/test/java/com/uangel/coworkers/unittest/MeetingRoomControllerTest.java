@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.unittest;
+package com.uangel.coworkers.unittest;
 
 import static org.springframework.restdocs.mockmvc.MockMvcRestDocumentation.document;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -14,8 +14,8 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
-import com.pausehyeon.coworkers.api.meetingroom.MeetingRoomController;
-import com.pausehyeon.coworkers.api.meetingroom.MeetingRoomService;
+import com.uangel.coworkers.api.meetingroom.MeetingRoomController;
+import com.uangel.coworkers.api.meetingroom.MeetingRoomService;
 
 @RunWith(SpringRunner.class)
 @WebMvcTest(MeetingRoomController.class)

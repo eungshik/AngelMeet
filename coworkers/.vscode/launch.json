@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CoworkersApplication<coworkers>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.uangel.coworkers.CoworkersApplication",
+            "projectName": "coworkers",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

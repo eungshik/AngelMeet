@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.api.reservation;
+package com.uangel.coworkers.api.reservation;
 
 import java.util.Date;
 
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pausehyeon.coworkers.exception.BusinessException;
+import com.uangel.coworkers.exception.BusinessException;
 
 import lombok.RequiredArgsConstructor;
 

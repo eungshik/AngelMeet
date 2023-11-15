@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.api.reservation;
+package com.uangel.coworkers.api.reservation;
 
 import java.time.ZoneId;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.api.reservation;
+package com.uangel.coworkers.api.reservation;
 
 import java.time.ZoneId;
 import java.util.Date;
@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pausehyeon.coworkers.exception.BusinessException;
+import com.uangel.coworkers.exception.BusinessException;
 
 @Service
 public class ReservationServiceImpl implements ReservationService {

@@ -1,5 +1,5 @@
 
-package com.pausehyeon.coworkers.api.reservation;
+package com.uangel.coworkers.api.reservation;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

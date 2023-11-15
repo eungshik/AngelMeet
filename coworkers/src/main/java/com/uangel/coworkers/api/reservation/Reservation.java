@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.api.reservation;
+package com.uangel.coworkers.api.reservation;
 
 import java.util.Date;
 
@@ -16,7 +16,7 @@ import javax.persistence.TemporalType;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
-import com.pausehyeon.coworkers.api.meetingroom.MeetingRoom;
+import com.uangel.coworkers.api.meetingroom.MeetingRoom;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

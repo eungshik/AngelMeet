@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.advice;
+package com.uangel.coworkers.advice;
 
 import java.util.Locale;
 
@@ -12,7 +12,7 @@ import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.method.annotation.MethodArgumentTypeMismatchException;
 
-import com.pausehyeon.coworkers.exception.BusinessException;
+import com.uangel.coworkers.exception.BusinessException;
 
 @org.springframework.web.bind.annotation.ControllerAdvice
 public class ControllerAdvice {

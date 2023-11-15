@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers;
+package com.uangel.coworkers;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.pausehyeon.coworkers.api.meetingroom;
+package com.uangel.coworkers.api.meetingroom;
 
 import java.util.Date;
 
