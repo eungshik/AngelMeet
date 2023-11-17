@@ -37,7 +37,7 @@ import lombok.ToString;
 @EqualsAndHashCode
 public class Reservation {
 	@Id
-	@GeneratedValue(strategy=GenerationType.AUTO)
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Long rid;                       // 예약ID
 
 	@NonNull
